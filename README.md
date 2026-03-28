@@ -80,7 +80,7 @@
 <h2 align="center">🔥 GitHub Activity</h2>
 
 <!-- Анимация с огнём или красными элементами -->
-<img src="https://github-profile-trophy.vercel.app/?username=Fazbear_YT&theme=radical&no-frame=true&row=1&margin-w=10&no-bg=true" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=FazbearYT&theme=radical&no-frame=true&row=1&margin-w=10&no-bg=true" width="100%"/>
 
 <br><br>
 

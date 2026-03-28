@@ -7,7 +7,6 @@
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG3MVMI/giphy.gif" width="600" height="200"/>
 -->
 
-
 <!-- Цитата в красной рамке -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&height=60&lines=%22Today+too+I+search,+like+science%22" alt="Quote"/>
@@ -15,17 +14,19 @@
 
 <br>
 
-<!-- Статистика с красным оформлением -->
-<table border="0">
-  <tr>
-    <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=FazbearYT&show_icons=true&theme=radical&hide_border=true&title_color=FF0000&text_color=ffffff&icon_color=FF0000&bg_color=0d1117&cache_seconds=0" width="100%"/>
-    </td>
-    <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FazbearYT&theme=radical&hide_border=true&title_color=FF0000&text_color=ffffff&bg_color=0d1117&layout=compact&cache_seconds=0" width="100%"/>
-    </td>
-  </tr>
-</table>
+<!-- ✅ РАБОЧАЯ СТАТИСТИКА (замена нерабочей) -->
+<!-- Стрик-статы (основная рабочая статистика) -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FazbearYT&theme=light&hide_border=true&background=FFFFFF&stroke=DC2626&ring=DC2626&fire=DC2626&currStreakLabel=333333" alt="Streak"/>
+</p>
+
+<br>
+
+<!-- Дополнительные метрики (если первая загрузится) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FazbearYT&show_icons=true&theme=radical&hide_border=true&title_color=FF0000&text_color=ffffff&icon_color=DC2626&bg_color=0d1117" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FazbearYT&theme=radical&hide_border=true&title_color=FF0000&text_color=ffffff&bg_color=0d1117&layout=compact" width="45%"/>
+</p>
 
 <br>
 
@@ -79,7 +80,7 @@
 
 <h2 align="center">🔥 GitHub Activity</h2>
 
-<!-- Анимация с огнём или красными элементами -->
+<!-- Трофеи с правильным юзернеймом -->
 <img src="https://github-profile-trophy.vercel.app/?username=FazbearYT&theme=radical&no-frame=true&row=1&margin-w=10&no-bg=true" width="100%"/>
 
 <br><br>
@@ -89,7 +90,7 @@
 
 <h2 align="center">📬 Let's Connect</h2>
 
-<!-- Красные кнопки контактов -->
+<!-- Красные кнопки контактов (твои данные) -->
 <p align="center">
   <a href="https://t.me/Fazbear_r">
     <img src="https://img.shields.io/badge/Telegram-FF0000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>

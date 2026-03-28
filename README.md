@@ -9,7 +9,7 @@
 
 <!-- Цитата в красной рамке -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&height=60&lines=%22Today+too+I+search,+like+science%22" alt="Quote"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=10000&color=FF0000&center=true&vCenter=true&width=600&height=60&lines=%22Today+too+I+search,+like+science%22" alt="Quote"/>
 </div>
 
 <br>
@@ -18,14 +18,6 @@
 <!-- Стрик-статы (основная рабочая статистика) -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FazbearYT&theme=light&hide_border=true&background=FFFFFF&stroke=DC2626&ring=DC2626&fire=DC2626&currStreakLabel=333333" alt="Streak"/>
-</p>
-
-<br>
-
-<!-- Дополнительные метрики (если первая загрузится) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FazbearYT&show_icons=true&theme=radical&hide_border=true&title_color=FF0000&text_color=ffffff&icon_color=DC2626&bg_color=0d1117" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FazbearYT&theme=radical&hide_border=true&title_color=FF0000&text_color=ffffff&bg_color=0d1117&layout=compact" width="45%"/>
 </p>
 
 <br>

@@ -19,11 +19,11 @@
 <table border="0">
   <tr>
     <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=FazbearYT&show_icons=true&theme=radical&hide_border=true&title_color=FF0000&text_color=ffffff&icon_color=FF0000&bg_color=0d1117" width="100%"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FazbearYT&theme=radical&hide_border=true&title_color=FF0000&text_color=ffffff&bg_color=0d1117&layout=compact" width="100%"/>
-      </td>
+        <img src="https://github-readme-stats.vercel.app/api?username=FazbearYT&show_icons=true&theme=radical&hide_border=true&title_color=FF0000&text_color=ffffff&icon_color=FF0000&bg_color=0d1117&cache_seconds=0" width="100%"/>
+    </td>
+    <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FazbearYT&theme=radical&hide_border=true&title_color=FF0000&text_color=ffffff&bg_color=0d1117&layout=compact&cache_seconds=0" width="100%"/>
+    </td>
   </tr>
 </table>
 

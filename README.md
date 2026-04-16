@@ -68,15 +68,6 @@
 <!-- Красная анимированная линия -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%"/>
 
-<br>
-
-<h2 align="center">🔥 GitHub Activity</h2>
-
-<!-- Трофеи с правильным юзернеймом -->
-<img src="https://github-profile-trophy.vercel.app/?username=FazbearYT&theme=radical&no-frame=true&row=1&margin-w=10&no-bg=true" width="100%"/>
-
-<br><br>
-
 <!-- Красная гифка для раздела контактов -->
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Contact"/>
 

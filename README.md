@@ -11,6 +11,8 @@
 | [security-pipeline-template](https://github.com/FazbearYT/security-pipeline-template) | Шаблон CI/CD с проверками безопасности для проектов на Python, Go и C/C++. |
 | [Astra](https://github.com/FazbearYT/Astra) | Анализирует набор данных и подбирает модель машинного обучения. |
 | [FazTestBot](https://github.com/FazbearYT/FazTestBot) | Модульный Telegram-бот на Python с хранением данных в SQLite. |
+| [campus-directory-java](https://github.com/FazbearYT/campus-directory-java) | Учебный справочник контактов на JavaFX с поиском по префиксному дереву. |
+| [Combined_Project](https://github.com/FazbearYT/Combined_Project) | Учебный проект по компьютерной графике на C++ и OpenGL с модулями волн, маятника и вращающегося куба. |
 
 ## Хакатоны
 

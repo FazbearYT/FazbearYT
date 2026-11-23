@@ -1,15 +1,25 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=FF0000&amp;height=135&amp;section=header&amp;text=Fazbear_r&amp;fontSize=54&amp;fontColor=ffffff&amp;fontAlignY=38" width="100%" alt="Fazbear_r">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=24&amp;duration=3000&amp;pause=10000&amp;color=E63232&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=48&amp;lines=%22Today+too+I+search,+like+science%22" alt="Today too I search, like science">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=FF0000&amp;height=185&amp;section=header&amp;text=Fazbear_r&amp;fontSize=64&amp;fontColor=ffffff&amp;fontAlignY=39" width="100%" alt="Fazbear_r">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=24&amp;duration=3000&amp;pause=10000&amp;color=E63232&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=56&amp;lines=%22Today+too+I+search,+like+science%22" alt="Today too I search, like science">
 </p>
 
 ## Хакатоны
 
-**2026 · НЭТИ-Некст 2.0 · 3-е место по треку**  
-[Синоникс Ассистент](https://github.com/NETI-NEXT-2-0/sinoniks-assistant) — командный прототип для проектирования сетевых и файловых правил с экспортом редактируемой схемы в draw.io.
+<details>
+<summary><strong>2026 · НЭТИ-Некст 2.0 · 3-е место по треку</strong></summary>
 
-**2025 · NSTU Hack · ML / Data Science**  
+В команде сделали прототип для проектирования сетевых и файловых правил с экспортом редактируемой схемы в draw.io.
+
+[Синоникс Ассистент](https://github.com/NETI-NEXT-2-0/sinoniks-assistant)
+
+</details>
+
+<details>
+<summary><strong>2025 · NSTU Hack · ML / Data Science</strong></summary>
+
 В команде KMS in ML сделали прототип для подсчёта людей в аудитории с помощью компьютерного зрения.
+
+</details>
 
 ## Проекты
 
@@ -20,6 +30,26 @@
 | [Astra](https://github.com/FazbearYT/Astra) | Анализирует набор данных и подбирает модель машинного обучения. |
 | [FazTestBot](https://github.com/FazbearYT/FazTestBot) | Модульный Telegram-бот на Python с хранением данных в SQLite. |
 
----
+## Активность
 
-[Telegram](https://t.me/Fazbear_r) · [Discord](https://discordapp.com/users/fazbear_r) · [Email](mailto:fazbearpayeer@gmail.com)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FazbearYT&amp;theme=light&amp;hide_border=true&amp;background=FFFFFF&amp;stroke=DC2626&amp;ring=DC2626&amp;fire=DC2626&amp;currStreakLabel=333333" alt="Серия коммитов на GitHub"/>
+</p>
+
+## Контакты
+
+<p align="center">
+  <a href="https://t.me/Fazbear_r">
+    <img src="https://img.shields.io/badge/Telegram-FF0000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://discordapp.com/users/fazbear_r">
+    <img src="https://img.shields.io/badge/Discord-FF0000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="mailto:fazbearpayeer@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=FF0000&amp;height=75&amp;section=footer" width="100%" alt="">
+</p>
